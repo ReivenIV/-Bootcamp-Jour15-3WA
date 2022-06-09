@@ -1,0 +1,41 @@
+body {
+    margin-left: 5em;
+}
+h1 {
+    font-weight: 900;
+    font-size: 4em;
+}
+
+button{
+    font-size: 1.5em;
+    border-radius: 5%;
+}
+
+p {
+    font-size: 1.2em;
+    font-family: sans-serif;    
+}
+
+/* div{
+    height: 500px;
+    width: 500px;
+    border-radius: 2%;
+} */
+.blue{
+    background-color: aquamarine;
+    height: 500px;
+    width: 500px;
+    border-radius: 2%;
+}
+.yellow{
+    background-color: rgb(205, 182, 50);
+    height: 500px;
+    width: 500px;
+    border-radius: 2%;
+}
+.green{
+    background-color: forestgreen;
+    height: 500px;
+    width: 500px;
+    border-radius: 2%;
+}
